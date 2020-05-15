@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.exe
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.deps.json
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.runtimeconfig.json
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.dll
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\bin\Debug\netcoreapp3.1\Simulador1.pdb
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.dll
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.pdb
+C:\Users\Usuario\Documents\Projeto LandisGyr\Simulador1\Simulador1\obj\Debug\netcoreapp3.1\Simulador1.genruntimeconfig.cache
