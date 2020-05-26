@@ -9,7 +9,12 @@ namespace Simulador1
         public int Reading { get; set; }
         public bool StatusR { get; set; }
         public static bool Status { get; private set; }
-
+        enum Request
+        {
+            Reading,
+            CortaReliga,
+            EquipamentId
+        }
         public static void Main()
         {
             int opcao, valorLeitura;
